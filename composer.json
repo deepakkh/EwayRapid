@@ -1,0 +1,14 @@
+{
+    "name": "josiah/eway-rapid",
+    "description": "eWAY Rapid 3.0 API for PHP",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Josiah",
+            "email": "josiah@jjs.id.au"
+        }
+    ],
+    "require": {
+
+    }
+}
